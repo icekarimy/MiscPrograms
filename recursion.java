@@ -1,13 +1,11 @@
 /*
- * Description: This program deploys the use of a recursive function.
+ * Description: This program deploys the use of a recursive math function using recursion.
  */
 package ec1;
 
 public class Recursion {
 
-    /**
-     * @param args the command line arguments
-     */
+ 
     public static void main(String[] args) {
         System.out.println(findA_n(5, 2)); 
         System.out.println(findA_n(5, 3)); 
